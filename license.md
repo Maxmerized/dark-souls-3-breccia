@@ -199,4 +199,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Dark Souls III · Updated 2026-11-15 · Shared under the MIT License*
+*Dark Souls III · Updated 2026-11-16 · Shared under the MIT License*
